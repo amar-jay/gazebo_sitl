@@ -1,10 +1,9 @@
 # ArduPilot Gazebo Plugin
 
-This is a fork of the Ardupilot Gazebo plugin. We made a couple of changes to the original
-plugin to incoperate recent changes in Gazebo and Ardupilot. We also added some new features
+This is a fork of the Ardupilot Gazebo plugin. We made a couple of changes to the original plugin to incoperate recent changes in Gazebo and Ardupilot. We also added some new features
 for our own use cases.
 
---- 
+---
 
 This is the official ArduPilot plugin for [Gazebo](https://gazebosim.org/home).
 It replaces the previous
@@ -66,7 +65,7 @@ to manage all dependencies. This is driven off of the environment variable `GZ_V
 export GZ_VERSION=harmonic
 sudo bash -c 'wget https://raw.githubusercontent.com/osrf/osrf-rosdep/master/gz/00-gazebo.list -O /etc/ros/rosdep/sources.list.d/00-gazebo.list'
 rosdep update
-rosdep resolve gz-harmonic 
+rosdep resolve gz-harmonic
 # Navigate to your ROS workspace before the next command.
 rosdep install --from-paths src --ignore-src -y
 ```
@@ -85,7 +84,7 @@ make -j4
 
 ## Configure
 
-Set the Gazebo environment variables in your `.bashrc` or `.zshrc` or in 
+Set the Gazebo environment variables in your `.bashrc` or `.zshrc` or in
 the terminal used to run Gazebo.
 
 #### Terminal
@@ -130,11 +129,10 @@ GUIDED> arm throttle
 GUIDED> takeoff 5
 ```
 
-
 #### Increase the simulation speed
 
 The `zephyr_runway.sdf` world has a `<physics>` element configured to run
-faster than real time: 
+faster than real time:
 
 ```xml
 <physics name="1ms" type="ignore">
@@ -142,7 +140,6 @@ faster than real time:
   <real_time_factor>-1.0</real_time_factor>
 </physics>
 ```
-
 
 ### 3. Streaming camera video
 
@@ -167,10 +164,9 @@ The `gimbal.sdf` world includes a 3 degrees of freedom gimbal with a
 zoomable camera. To start streaming:
 
 ```bash
-gz topic -t 
+gz topic -t
 /world/iris_runway/model/iris_with_gimbal/model/gimbal/link/pitch_link/sensor/camera/image/enable_streaming -m gz.msgs.Boolean -p "data: 1"
 ```
-
 
 ### 4. Viewing camera stream using opencv
 
@@ -227,11 +223,11 @@ sim_vehicle.py -D -v ArduCopter -f JSON --add-param-file=$HOME/ardupilot_gazebo/
 
 Control action for gimbal over RC channel:
 
-| Action | Channel | RC Low | RC High |
-| ------------- | ------------- | ------------- | ------------- |
-| Roll | RC6 | Roll Left | Roll Right |
-| Pitch | RC7 | Pitch Down | Pitch Up |
-| Yaw | RC8 | Yaw Left | Yaw Right |
+| Action | Channel | RC Low     | RC High    |
+| ------ | ------- | ---------- | ---------- |
+| Roll   | RC6     | Roll Left  | Roll Right |
+| Pitch  | RC7     | Pitch Down | Pitch Up   |
+| Yaw    | RC8     | Yaw Left   | Yaw Right  |
 
 Example usage:
 
