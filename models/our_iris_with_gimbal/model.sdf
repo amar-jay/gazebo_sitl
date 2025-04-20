@@ -10,7 +10,7 @@
       <uri>model://gimbal_small_3d</uri>
       <name>gimbal</name>
       <!-- pose translations ×5; rotations unchanged -->
-      <pose degrees="true">0 -0.01 -0.624615 90 0 90</pose>
+      <pose degrees="true">0 -0.01 -0.3 180 0 90</pose>
     </include>
 
     <joint name="gimbal_joint" type="revolute">

@@ -105,7 +105,7 @@ Reload your terminal with `source ~/.bashrc` (or `source ~/.zshrc` on macOS).
 #### Run Gazebo
 
 ```bash
-gz sim -v4 -r iris_runway.sdf
+gz sim -v4 -r our_runway.sdf
 ```
 
 The `-v4` parameter is not mandatory, it shows additional information and is
@@ -164,8 +164,7 @@ The `gimbal.sdf` world includes a 3 degrees of freedom gimbal with a
 zoomable camera. To start streaming:
 
 ```bash
-gz topic -t
-/world/iris_runway/model/iris_with_gimbal/model/gimbal/link/pitch_link/sensor/camera/image/enable_streaming -m gz.msgs.Boolean -p "data: 1"
+gz topic -t /world/our_runway/model/our_iris_with_gimbal/model/gimbal/link/pitch_link/sensor/camera/image/enable_streaming -m gz.msgs.Boolean -p "data: 1"
 ```
 
 ### 4. Viewing camera stream using opencv

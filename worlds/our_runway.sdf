@@ -116,13 +116,24 @@
     </include>
 
     <include>
-      <uri>model://our_iris_with_gimbal</uri>
-      <pose degrees="true">0 0 0.195 0 0 90</pose>
+      <uri>model://box_with_image</uri>
+      <pose degrees="true">0 0 0 0 0 0</pose>
     </include>
 
-    <!-- <include>
-      <uri>model://iris_kamikaze</uri>
-      <pose degrees="true">0 3 0.195 0 0 90</pose>
+g
+    <include>
+      <uri>model://iris_with_gimbal</uri>
+      <pose degrees="true">0 0 0.396 0 0 90</pose>
+    </include> 
+<!-- 
+    <include>
+      <uri>model://our_iris_with_gimbal</uri>
+      <pose degrees="true">0 -10 1.1 0 0 90</pose>
     </include> -->
+
+    <include>
+      <uri>model://iris_kamikaze</uri>
+      <pose degrees="true">10 3 0.195 0 0 90</pose>
+    </include>
   </world>
 </sdf>
