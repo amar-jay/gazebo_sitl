@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<sdf version="1.6">
+  <model name="my_tank">
+    <static>false</static>
+    <link name="tank_body">
+      <collision name="collision">
+        <geometry>
+          <mesh>
+            <uri>model://my_tank/meshes/m26.dae</uri>
+            <scale>1 1 1</scale>
+          </mesh>
+        </geometry>
+      </collision>
+      <visual name="visual">
+        <geometry>
+          <mesh>
+            <uri>model://my_tank/meshes/m26.dae</uri>
+            <scale>1 1 1</scale>
+          </mesh>
+        </geometry>
+      </visual>
+      <inertial>
+        <mass>150</mass> <!-- Adjust mass as needed -->
+        <inertia>
+          <ixx>1.0</ixx>
+          <iyy>1.0</iyy>
+          <izz>1.0</izz>
+        </inertia>
+      </inertial>
+    </link>
+  </model>
+</sdf>

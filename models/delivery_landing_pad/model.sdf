@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
 <sdf version="1.9">
-  <model name="box_with_image">
+  <model name="delivery_landing_pad">
     <static>true</static>
     
     <link name="base_link">
@@ -13,8 +13,9 @@
           </box>
         </geometry>
         <material>
-          <ambient>0.5 0.5 0.5 1</ambient>
-          <diffuse>0.5 0.5 0.5 1</diffuse>
+          <ambient>0.6 0.8 1.0 1</ambient>
+          <diffuse>0.6 0.8 1.0 1</diffuse>
+          <diffuse>0.1 0.1 0.1 1</diffuse>
         </material>
       </visual>
 
@@ -29,7 +30,7 @@
         <material>
           <pbr>
             <metal>
-              <albedo_map>materials/textures/logo.png</albedo_map>
+              <albedo_map>materials/textures/copter.png</albedo_map>
             </metal>
           </pbr>
         </material>
