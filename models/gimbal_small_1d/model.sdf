@@ -129,7 +129,7 @@
           <udp_host>127.0.0.1</udp_host>
           <udp_port>5600</udp_port>
           <use_basic_pipeline>true</use_basic_pipeline>
-          <use_cuda>true</use_cuda>
+          <use_cuda>false</use_cuda>
         </plugin>
 
       </sensor>
@@ -147,7 +147,7 @@
           <upper>3.1415926</upper>
         </limit>
       </axis>
-      <pose>0 0 0.02 0 0 0</pose>
+      <pose>0 0 -0.02 0 0 0</pose>
     </joint>
   </model>
 </sdf>
