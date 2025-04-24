@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<sdf version='1.5'>
+  <model name='paddy'>
+    <pose>0 0 0 1.507 0 0</pose>
+    <static>True</static>
+    <link name='base_paddy'>
+    	<collision name="collision">
+        <geometry>
+            <mesh><uri>model://paddy/meshes/paddy.obj</uri>
+            </mesh>
+          </geometry>
+      </collision>
+        <visual name="visual">
+          <geometry>
+            <mesh><uri>model://paddy/meshes/paddy.obj</uri>
+            </mesh>
+          </geometry>
+        </visual>
+   </link>
+ </model>
+</sdf>

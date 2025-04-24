@@ -1,0 +1,39 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl cgaxis_models_67_51_01
+Ns 50.000007
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.005647 0.005647 0.005647
+Ke 0.000000 0.000000 0.000000
+Ni 1.010000
+d 1.000000
+illum 2
+map_Bump maps/cgaxis_models_67_51_01_bump.jpg
+map_Kd maps/cgaxis_models_67_51_01.jpg
+map_d maps/cgaxis_models_67_51_01_opacity.jpg
+
+newmtl cgaxis_models_67_51_02
+Ns 58.333330
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.005647 0.005647 0.005647
+Ke 0.000000 0.000000 0.000000
+Ni 1.010000
+d 1.000000
+illum 2
+map_Bump maps/cgaxis_models_67_51_02_bump.jpg
+map_Kd maps/cgaxis_models_67_51_02.jpg
+
+newmtl cgaxis_models_67_51_03
+Ns 45.833326
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.002510 0.002510 0.002510
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 2
+map_Bump maps/cgaxis_models_67_51_03_bump.jpg
+map_Kd maps/cgaxis_models_67_51_03.jpg

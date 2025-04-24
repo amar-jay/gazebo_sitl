@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<sdf version="1.6">
+  <world name="default">
+  <scene>
+      <shadows>false</shadows>
+      <grid>false</grid>
+      <sky>
+      </sky>
+    </scene>
+    <include>
+      <uri>model://sun</uri>
+    </include>
+    
+    <include>
+    <uri>model://apartment</uri>
+    <pose>0 24 0 0 0 -1.507</pose>
+    </include>
+    
+    <include>
+      <uri>model://paddy_farm</uri>
+      <pose>0 0 0 0 0 0</pose>
+    </include>
+    
+  <population name="tree">
+      <model name="tree1">
+        <include>
+          <static>true</static>
+          <uri>model://orchards_tree</uri>
+        </include>
+      </model>
+      <pose>0 -20 0 0 0 0</pose>
+      <distribution>
+        <type>grid</type>
+        <rows>7</rows>
+        <cols>7</cols>
+        <step>6 6 0</step>
+      </distribution>
+    </population>
+
+    
+  </world>
+</sdf>
