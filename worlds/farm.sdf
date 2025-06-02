@@ -1,0 +1,4537 @@
+<?xml version="1.0"?>
+<sdf version="1.6">
+  <world name="default">
+  <scene>
+      <shadows>false</shadows>
+      <grid>false</grid>
+      <sky>
+        <clouds>
+          <speed>4</speed>
+        </clouds>
+      </sky>
+    </scene>
+    <include>
+      <uri>model://sun</uri>
+    </include>
+
+    <include>
+      <uri>model://paddy_farm</uri>
+      <pose>0 0 0 0 0 0</pose>
+    </include>
+    <include>
+    <uri>model://apartment</uri>
+    <pose>0 24 0 0 0 -1.507</pose>
+    </include>
+    
+    <include>
+<uri>model://paddy</uri>
+<pose>-20 3 0 1.5708 0 0</pose>
+<name>paddy1</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 3 0 1.5708 0 0</pose>
+<name>paddy2</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 3 0 1.5708 0 0</pose>
+<name>paddy3</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 3 0 1.5708 0 0</pose>
+<name>paddy4</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 3 0 1.5708 0 0</pose>
+<name>paddy5</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 3 0 1.5708 0 0</pose>
+<name>paddy6</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 3 0 1.5708 0 0</pose>
+<name>paddy7</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 3 0 1.5708 0 0</pose>
+<name>paddy8</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 3 0 1.5708 0 0</pose>
+<name>paddy9</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 3 0 1.5708 0 0</pose>
+<name>paddy10</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 3 0 1.5708 0 0</pose>
+<name>paddy11</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 3 0 1.5708 0 0</pose>
+<name>paddy12</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 3 0 1.5708 0 0</pose>
+<name>paddy13</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 3 0 1.5708 0 0</pose>
+<name>paddy14</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 3 0 1.5708 0 0</pose>
+<name>paddy15</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 3 0 1.5708 0 0</pose>
+<name>paddy16</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 3 0 1.5708 0 0</pose>
+<name>paddy17</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 3 0 1.5708 0 0</pose>
+<name>paddy18</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 3 0 1.5708 0 0</pose>
+<name>paddy19</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 3 0 1.5708 0 0</pose>
+<name>paddy20</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 3 0 1.5708 0 0</pose>
+<name>paddy21</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 3 0 1.5708 0 0</pose>
+<name>paddy22</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 3 0 1.5708 0 0</pose>
+<name>paddy23</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 3 0 1.5708 0 0</pose>
+<name>paddy24</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 3 0 1.5708 0 0</pose>
+<name>paddy25</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 3 0 1.5708 0 0</pose>
+<name>paddy26</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 3 0 1.5708 0 0</pose>
+<name>paddy27</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 3 0 1.5708 0 0</pose>
+<name>paddy28</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 3 0 1.5708 0 0</pose>
+<name>paddy29</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 3 0 1.5708 0 0</pose>
+<name>paddy30</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 3 0 1.5708 0 0</pose>
+<name>paddy31</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 3 0 1.5708 0 0</pose>
+<name>paddy32</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 3 0 1.5708 0 0</pose>
+<name>paddy33</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 3 0 1.5708 0 0</pose>
+<name>paddy34</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 3 0 1.5708 0 0</pose>
+<name>paddy35</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 3 0 1.5708 0 0</pose>
+<name>paddy36</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 3 0 1.5708 0 0</pose>
+<name>paddy37</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 3 0 1.5708 0 0</pose>
+<name>paddy38</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 3 0 1.5708 0 0</pose>
+<name>paddy39</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 3 0 1.5708 0 0</pose>
+<name>paddy40</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 3 0 1.5708 0 0</pose>
+<name>paddy41</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 1 0 1.5708 0 0</pose>
+<name>paddy42</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 1 0 1.5708 0 0</pose>
+<name>paddy43</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 1 0 1.5708 0 0</pose>
+<name>paddy44</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 1 0 1.5708 0 0</pose>
+<name>paddy45</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 1 0 1.5708 0 0</pose>
+<name>paddy46</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 1 0 1.5708 0 0</pose>
+<name>paddy47</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 1 0 1.5708 0 0</pose>
+<name>paddy48</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 1 0 1.5708 0 0</pose>
+<name>paddy49</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 1 0 1.5708 0 0</pose>
+<name>paddy50</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 1 0 1.5708 0 0</pose>
+<name>paddy51</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 1 0 1.5708 0 0</pose>
+<name>paddy52</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 1 0 1.5708 0 0</pose>
+<name>paddy53</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 1 0 1.5708 0 0</pose>
+<name>paddy54</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 1 0 1.5708 0 0</pose>
+<name>paddy55</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 1 0 1.5708 0 0</pose>
+<name>paddy56</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 1 0 1.5708 0 0</pose>
+<name>paddy57</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 1 0 1.5708 0 0</pose>
+<name>paddy58</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 1 0 1.5708 0 0</pose>
+<name>paddy59</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 1 0 1.5708 0 0</pose>
+<name>paddy60</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 1 0 1.5708 0 0</pose>
+<name>paddy61</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 1 0 1.5708 0 0</pose>
+<name>paddy62</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 1 0 1.5708 0 0</pose>
+<name>paddy63</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 1 0 1.5708 0 0</pose>
+<name>paddy64</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 1 0 1.5708 0 0</pose>
+<name>paddy65</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 1 0 1.5708 0 0</pose>
+<name>paddy66</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 1 0 1.5708 0 0</pose>
+<name>paddy67</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 1 0 1.5708 0 0</pose>
+<name>paddy68</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 1 0 1.5708 0 0</pose>
+<name>paddy69</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 1 0 1.5708 0 0</pose>
+<name>paddy70</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 1 0 1.5708 0 0</pose>
+<name>paddy71</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 1 0 1.5708 0 0</pose>
+<name>paddy72</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 1 0 1.5708 0 0</pose>
+<name>paddy73</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 1 0 1.5708 0 0</pose>
+<name>paddy74</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 1 0 1.5708 0 0</pose>
+<name>paddy75</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 1 0 1.5708 0 0</pose>
+<name>paddy76</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 1 0 1.5708 0 0</pose>
+<name>paddy77</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 1 0 1.5708 0 0</pose>
+<name>paddy78</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 1 0 1.5708 0 0</pose>
+<name>paddy79</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 1 0 1.5708 0 0</pose>
+<name>paddy80</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 1 0 1.5708 0 0</pose>
+<name>paddy81</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 1 0 1.5708 0 0</pose>
+<name>paddy82</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 -1 0 1.5708 0 0</pose>
+<name>paddy83</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 -1 0 1.5708 0 0</pose>
+<name>paddy84</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 -1 0 1.5708 0 0</pose>
+<name>paddy85</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 -1 0 1.5708 0 0</pose>
+<name>paddy86</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 -1 0 1.5708 0 0</pose>
+<name>paddy87</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 -1 0 1.5708 0 0</pose>
+<name>paddy88</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 -1 0 1.5708 0 0</pose>
+<name>paddy89</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 -1 0 1.5708 0 0</pose>
+<name>paddy90</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 -1 0 1.5708 0 0</pose>
+<name>paddy91</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 -1 0 1.5708 0 0</pose>
+<name>paddy92</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 -1 0 1.5708 0 0</pose>
+<name>paddy93</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 -1 0 1.5708 0 0</pose>
+<name>paddy94</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 -1 0 1.5708 0 0</pose>
+<name>paddy95</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 -1 0 1.5708 0 0</pose>
+<name>paddy96</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 -1 0 1.5708 0 0</pose>
+<name>paddy97</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 -1 0 1.5708 0 0</pose>
+<name>paddy98</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 -1 0 1.5708 0 0</pose>
+<name>paddy99</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 -1 0 1.5708 0 0</pose>
+<name>paddy100</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 -1 0 1.5708 0 0</pose>
+<name>paddy101</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 -1 0 1.5708 0 0</pose>
+<name>paddy102</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 -1 0 1.5708 0 0</pose>
+<name>paddy103</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 -1 0 1.5708 0 0</pose>
+<name>paddy104</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 -1 0 1.5708 0 0</pose>
+<name>paddy105</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 -1 0 1.5708 0 0</pose>
+<name>paddy106</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 -1 0 1.5708 0 0</pose>
+<name>paddy107</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 -1 0 1.5708 0 0</pose>
+<name>paddy108</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 -1 0 1.5708 0 0</pose>
+<name>paddy109</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 -1 0 1.5708 0 0</pose>
+<name>paddy110</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 -1 0 1.5708 0 0</pose>
+<name>paddy111</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 -1 0 1.5708 0 0</pose>
+<name>paddy112</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 -1 0 1.5708 0 0</pose>
+<name>paddy113</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 -1 0 1.5708 0 0</pose>
+<name>paddy114</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 -1 0 1.5708 0 0</pose>
+<name>paddy115</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 -1 0 1.5708 0 0</pose>
+<name>paddy116</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 -1 0 1.5708 0 0</pose>
+<name>paddy117</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 -1 0 1.5708 0 0</pose>
+<name>paddy118</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 -1 0 1.5708 0 0</pose>
+<name>paddy119</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 -1 0 1.5708 0 0</pose>
+<name>paddy120</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 -1 0 1.5708 0 0</pose>
+<name>paddy121</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 -1 0 1.5708 0 0</pose>
+<name>paddy122</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 -1 0 1.5708 0 0</pose>
+<name>paddy123</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 -3 0 1.5708 0 0</pose>
+<name>paddy124</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 -3 0 1.5708 0 0</pose>
+<name>paddy125</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 -3 0 1.5708 0 0</pose>
+<name>paddy126</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 -3 0 1.5708 0 0</pose>
+<name>paddy127</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 -3 0 1.5708 0 0</pose>
+<name>paddy128</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 -3 0 1.5708 0 0</pose>
+<name>paddy129</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 -3 0 1.5708 0 0</pose>
+<name>paddy130</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 -3 0 1.5708 0 0</pose>
+<name>paddy131</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 -3 0 1.5708 0 0</pose>
+<name>paddy132</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 -3 0 1.5708 0 0</pose>
+<name>paddy133</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 -3 0 1.5708 0 0</pose>
+<name>paddy134</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 -3 0 1.5708 0 0</pose>
+<name>paddy135</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 -3 0 1.5708 0 0</pose>
+<name>paddy136</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 -3 0 1.5708 0 0</pose>
+<name>paddy137</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 -3 0 1.5708 0 0</pose>
+<name>paddy138</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 -3 0 1.5708 0 0</pose>
+<name>paddy139</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 -3 0 1.5708 0 0</pose>
+<name>paddy140</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 -3 0 1.5708 0 0</pose>
+<name>paddy141</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 -3 0 1.5708 0 0</pose>
+<name>paddy142</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 -3 0 1.5708 0 0</pose>
+<name>paddy143</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 -3 0 1.5708 0 0</pose>
+<name>paddy144</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 -3 0 1.5708 0 0</pose>
+<name>paddy145</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 -3 0 1.5708 0 0</pose>
+<name>paddy146</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 -3 0 1.5708 0 0</pose>
+<name>paddy147</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 -3 0 1.5708 0 0</pose>
+<name>paddy148</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 -3 0 1.5708 0 0</pose>
+<name>paddy149</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 -3 0 1.5708 0 0</pose>
+<name>paddy150</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 -3 0 1.5708 0 0</pose>
+<name>paddy151</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 -3 0 1.5708 0 0</pose>
+<name>paddy152</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 -3 0 1.5708 0 0</pose>
+<name>paddy153</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 -3 0 1.5708 0 0</pose>
+<name>paddy154</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 -3 0 1.5708 0 0</pose>
+<name>paddy155</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 -3 0 1.5708 0 0</pose>
+<name>paddy156</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 -3 0 1.5708 0 0</pose>
+<name>paddy157</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 -3 0 1.5708 0 0</pose>
+<name>paddy158</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 -3 0 1.5708 0 0</pose>
+<name>paddy159</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 -3 0 1.5708 0 0</pose>
+<name>paddy160</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 -3 0 1.5708 0 0</pose>
+<name>paddy161</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 -3 0 1.5708 0 0</pose>
+<name>paddy162</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 -3 0 1.5708 0 0</pose>
+<name>paddy163</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 -3 0 1.5708 0 0</pose>
+<name>paddy164</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 -5 0 1.5708 0 0</pose>
+<name>paddy165</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 -5 0 1.5708 0 0</pose>
+<name>paddy166</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 -5 0 1.5708 0 0</pose>
+<name>paddy167</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 -5 0 1.5708 0 0</pose>
+<name>paddy168</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 -5 0 1.5708 0 0</pose>
+<name>paddy169</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 -5 0 1.5708 0 0</pose>
+<name>paddy170</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 -5 0 1.5708 0 0</pose>
+<name>paddy171</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 -5 0 1.5708 0 0</pose>
+<name>paddy172</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 -5 0 1.5708 0 0</pose>
+<name>paddy173</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 -5 0 1.5708 0 0</pose>
+<name>paddy174</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 -5 0 1.5708 0 0</pose>
+<name>paddy175</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 -5 0 1.5708 0 0</pose>
+<name>paddy176</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 -5 0 1.5708 0 0</pose>
+<name>paddy177</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 -5 0 1.5708 0 0</pose>
+<name>paddy178</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 -5 0 1.5708 0 0</pose>
+<name>paddy179</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 -5 0 1.5708 0 0</pose>
+<name>paddy180</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 -5 0 1.5708 0 0</pose>
+<name>paddy181</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 -5 0 1.5708 0 0</pose>
+<name>paddy182</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 -5 0 1.5708 0 0</pose>
+<name>paddy183</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 -5 0 1.5708 0 0</pose>
+<name>paddy184</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 -5 0 1.5708 0 0</pose>
+<name>paddy185</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 -5 0 1.5708 0 0</pose>
+<name>paddy186</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 -5 0 1.5708 0 0</pose>
+<name>paddy187</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 -5 0 1.5708 0 0</pose>
+<name>paddy188</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 -5 0 1.5708 0 0</pose>
+<name>paddy189</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 -5 0 1.5708 0 0</pose>
+<name>paddy190</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 -5 0 1.5708 0 0</pose>
+<name>paddy191</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 -5 0 1.5708 0 0</pose>
+<name>paddy192</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 -5 0 1.5708 0 0</pose>
+<name>paddy193</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 -5 0 1.5708 0 0</pose>
+<name>paddy194</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 -5 0 1.5708 0 0</pose>
+<name>paddy195</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 -5 0 1.5708 0 0</pose>
+<name>paddy196</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 -5 0 1.5708 0 0</pose>
+<name>paddy197</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 -5 0 1.5708 0 0</pose>
+<name>paddy198</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 -5 0 1.5708 0 0</pose>
+<name>paddy199</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 -5 0 1.5708 0 0</pose>
+<name>paddy200</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 -5 0 1.5708 0 0</pose>
+<name>paddy201</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 -5 0 1.5708 0 0</pose>
+<name>paddy202</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 -5 0 1.5708 0 0</pose>
+<name>paddy203</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 -5 0 1.5708 0 0</pose>
+<name>paddy204</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 -5 0 1.5708 0 0</pose>
+<name>paddy205</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 -7 0 1.5708 0 0</pose>
+<name>paddy206</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 -7 0 1.5708 0 0</pose>
+<name>paddy207</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 -7 0 1.5708 0 0</pose>
+<name>paddy208</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 -7 0 1.5708 0 0</pose>
+<name>paddy209</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 -7 0 1.5708 0 0</pose>
+<name>paddy210</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 -7 0 1.5708 0 0</pose>
+<name>paddy211</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 -7 0 1.5708 0 0</pose>
+<name>paddy212</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 -7 0 1.5708 0 0</pose>
+<name>paddy213</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 -7 0 1.5708 0 0</pose>
+<name>paddy214</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 -7 0 1.5708 0 0</pose>
+<name>paddy215</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 -7 0 1.5708 0 0</pose>
+<name>paddy216</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 -7 0 1.5708 0 0</pose>
+<name>paddy217</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 -7 0 1.5708 0 0</pose>
+<name>paddy218</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 -7 0 1.5708 0 0</pose>
+<name>paddy219</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 -7 0 1.5708 0 0</pose>
+<name>paddy220</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 -7 0 1.5708 0 0</pose>
+<name>paddy221</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 -7 0 1.5708 0 0</pose>
+<name>paddy222</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 -7 0 1.5708 0 0</pose>
+<name>paddy223</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 -7 0 1.5708 0 0</pose>
+<name>paddy224</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 -7 0 1.5708 0 0</pose>
+<name>paddy225</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 -7 0 1.5708 0 0</pose>
+<name>paddy226</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 -7 0 1.5708 0 0</pose>
+<name>paddy227</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 -7 0 1.5708 0 0</pose>
+<name>paddy228</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 -7 0 1.5708 0 0</pose>
+<name>paddy229</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 -7 0 1.5708 0 0</pose>
+<name>paddy230</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 -7 0 1.5708 0 0</pose>
+<name>paddy231</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 -7 0 1.5708 0 0</pose>
+<name>paddy232</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 -7 0 1.5708 0 0</pose>
+<name>paddy233</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 -7 0 1.5708 0 0</pose>
+<name>paddy234</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 -7 0 1.5708 0 0</pose>
+<name>paddy235</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 -7 0 1.5708 0 0</pose>
+<name>paddy236</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 -7 0 1.5708 0 0</pose>
+<name>paddy237</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 -7 0 1.5708 0 0</pose>
+<name>paddy238</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 -7 0 1.5708 0 0</pose>
+<name>paddy239</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 -7 0 1.5708 0 0</pose>
+<name>paddy240</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 -7 0 1.5708 0 0</pose>
+<name>paddy241</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 -7 0 1.5708 0 0</pose>
+<name>paddy242</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 -7 0 1.5708 0 0</pose>
+<name>paddy243</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 -7 0 1.5708 0 0</pose>
+<name>paddy244</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 -7 0 1.5708 0 0</pose>
+<name>paddy245</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 -7 0 1.5708 0 0</pose>
+<name>paddy246</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 -9 0 1.5708 0 0</pose>
+<name>paddy247</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 -9 0 1.5708 0 0</pose>
+<name>paddy248</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 -9 0 1.5708 0 0</pose>
+<name>paddy249</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 -9 0 1.5708 0 0</pose>
+<name>paddy250</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 -9 0 1.5708 0 0</pose>
+<name>paddy251</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 -9 0 1.5708 0 0</pose>
+<name>paddy252</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 -9 0 1.5708 0 0</pose>
+<name>paddy253</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 -9 0 1.5708 0 0</pose>
+<name>paddy254</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 -9 0 1.5708 0 0</pose>
+<name>paddy255</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 -9 0 1.5708 0 0</pose>
+<name>paddy256</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 -9 0 1.5708 0 0</pose>
+<name>paddy257</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 -9 0 1.5708 0 0</pose>
+<name>paddy258</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 -9 0 1.5708 0 0</pose>
+<name>paddy259</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 -9 0 1.5708 0 0</pose>
+<name>paddy260</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 -9 0 1.5708 0 0</pose>
+<name>paddy261</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 -9 0 1.5708 0 0</pose>
+<name>paddy262</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 -9 0 1.5708 0 0</pose>
+<name>paddy263</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 -9 0 1.5708 0 0</pose>
+<name>paddy264</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 -9 0 1.5708 0 0</pose>
+<name>paddy265</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 -9 0 1.5708 0 0</pose>
+<name>paddy266</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 -9 0 1.5708 0 0</pose>
+<name>paddy267</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 -9 0 1.5708 0 0</pose>
+<name>paddy268</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 -9 0 1.5708 0 0</pose>
+<name>paddy269</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 -9 0 1.5708 0 0</pose>
+<name>paddy270</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 -9 0 1.5708 0 0</pose>
+<name>paddy271</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 -9 0 1.5708 0 0</pose>
+<name>paddy272</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 -9 0 1.5708 0 0</pose>
+<name>paddy273</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 -9 0 1.5708 0 0</pose>
+<name>paddy274</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 -9 0 1.5708 0 0</pose>
+<name>paddy275</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 -9 0 1.5708 0 0</pose>
+<name>paddy276</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 -9 0 1.5708 0 0</pose>
+<name>paddy277</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 -9 0 1.5708 0 0</pose>
+<name>paddy278</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 -9 0 1.5708 0 0</pose>
+<name>paddy279</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 -9 0 1.5708 0 0</pose>
+<name>paddy280</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 -9 0 1.5708 0 0</pose>
+<name>paddy281</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 -9 0 1.5708 0 0</pose>
+<name>paddy282</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 -9 0 1.5708 0 0</pose>
+<name>paddy283</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 -9 0 1.5708 0 0</pose>
+<name>paddy284</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 -9 0 1.5708 0 0</pose>
+<name>paddy285</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 -9 0 1.5708 0 0</pose>
+<name>paddy286</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 -9 0 1.5708 0 0</pose>
+<name>paddy287</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 -11 0 1.5708 0 0</pose>
+<name>paddy288</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 -11 0 1.5708 0 0</pose>
+<name>paddy289</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 -11 0 1.5708 0 0</pose>
+<name>paddy290</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 -11 0 1.5708 0 0</pose>
+<name>paddy291</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 -11 0 1.5708 0 0</pose>
+<name>paddy292</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 -11 0 1.5708 0 0</pose>
+<name>paddy293</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 -11 0 1.5708 0 0</pose>
+<name>paddy294</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 -11 0 1.5708 0 0</pose>
+<name>paddy295</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 -11 0 1.5708 0 0</pose>
+<name>paddy296</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 -11 0 1.5708 0 0</pose>
+<name>paddy297</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 -11 0 1.5708 0 0</pose>
+<name>paddy298</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 -11 0 1.5708 0 0</pose>
+<name>paddy299</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 -11 0 1.5708 0 0</pose>
+<name>paddy300</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 -11 0 1.5708 0 0</pose>
+<name>paddy301</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 -11 0 1.5708 0 0</pose>
+<name>paddy302</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 -11 0 1.5708 0 0</pose>
+<name>paddy303</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 -11 0 1.5708 0 0</pose>
+<name>paddy304</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 -11 0 1.5708 0 0</pose>
+<name>paddy305</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 -11 0 1.5708 0 0</pose>
+<name>paddy306</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 -11 0 1.5708 0 0</pose>
+<name>paddy307</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 -11 0 1.5708 0 0</pose>
+<name>paddy308</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 -11 0 1.5708 0 0</pose>
+<name>paddy309</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 -11 0 1.5708 0 0</pose>
+<name>paddy310</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 -11 0 1.5708 0 0</pose>
+<name>paddy311</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 -11 0 1.5708 0 0</pose>
+<name>paddy312</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 -11 0 1.5708 0 0</pose>
+<name>paddy313</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 -11 0 1.5708 0 0</pose>
+<name>paddy314</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 -11 0 1.5708 0 0</pose>
+<name>paddy315</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 -11 0 1.5708 0 0</pose>
+<name>paddy316</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 -11 0 1.5708 0 0</pose>
+<name>paddy317</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 -11 0 1.5708 0 0</pose>
+<name>paddy318</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 -11 0 1.5708 0 0</pose>
+<name>paddy319</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 -11 0 1.5708 0 0</pose>
+<name>paddy320</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 -11 0 1.5708 0 0</pose>
+<name>paddy321</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 -11 0 1.5708 0 0</pose>
+<name>paddy322</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 -11 0 1.5708 0 0</pose>
+<name>paddy323</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 -11 0 1.5708 0 0</pose>
+<name>paddy324</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 -11 0 1.5708 0 0</pose>
+<name>paddy325</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 -11 0 1.5708 0 0</pose>
+<name>paddy326</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 -11 0 1.5708 0 0</pose>
+<name>paddy327</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 -11 0 1.5708 0 0</pose>
+<name>paddy328</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 -13 0 1.5708 0 0</pose>
+<name>paddy329</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 -13 0 1.5708 0 0</pose>
+<name>paddy330</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 -13 0 1.5708 0 0</pose>
+<name>paddy331</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 -13 0 1.5708 0 0</pose>
+<name>paddy332</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 -13 0 1.5708 0 0</pose>
+<name>paddy333</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 -13 0 1.5708 0 0</pose>
+<name>paddy334</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 -13 0 1.5708 0 0</pose>
+<name>paddy335</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 -13 0 1.5708 0 0</pose>
+<name>paddy336</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 -13 0 1.5708 0 0</pose>
+<name>paddy337</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 -13 0 1.5708 0 0</pose>
+<name>paddy338</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 -13 0 1.5708 0 0</pose>
+<name>paddy339</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 -13 0 1.5708 0 0</pose>
+<name>paddy340</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 -13 0 1.5708 0 0</pose>
+<name>paddy341</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 -13 0 1.5708 0 0</pose>
+<name>paddy342</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 -13 0 1.5708 0 0</pose>
+<name>paddy343</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 -13 0 1.5708 0 0</pose>
+<name>paddy344</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 -13 0 1.5708 0 0</pose>
+<name>paddy345</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 -13 0 1.5708 0 0</pose>
+<name>paddy346</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 -13 0 1.5708 0 0</pose>
+<name>paddy347</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 -13 0 1.5708 0 0</pose>
+<name>paddy348</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 -13 0 1.5708 0 0</pose>
+<name>paddy349</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 -13 0 1.5708 0 0</pose>
+<name>paddy350</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 -13 0 1.5708 0 0</pose>
+<name>paddy351</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 -13 0 1.5708 0 0</pose>
+<name>paddy352</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 -13 0 1.5708 0 0</pose>
+<name>paddy353</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 -13 0 1.5708 0 0</pose>
+<name>paddy354</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 -13 0 1.5708 0 0</pose>
+<name>paddy355</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 -13 0 1.5708 0 0</pose>
+<name>paddy356</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 -13 0 1.5708 0 0</pose>
+<name>paddy357</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 -13 0 1.5708 0 0</pose>
+<name>paddy358</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 -13 0 1.5708 0 0</pose>
+<name>paddy359</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 -13 0 1.5708 0 0</pose>
+<name>paddy360</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 -13 0 1.5708 0 0</pose>
+<name>paddy361</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 -13 0 1.5708 0 0</pose>
+<name>paddy362</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 -13 0 1.5708 0 0</pose>
+<name>paddy363</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 -13 0 1.5708 0 0</pose>
+<name>paddy364</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 -13 0 1.5708 0 0</pose>
+<name>paddy365</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 -13 0 1.5708 0 0</pose>
+<name>paddy366</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 -13 0 1.5708 0 0</pose>
+<name>paddy367</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 -13 0 1.5708 0 0</pose>
+<name>paddy368</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 -13 0 1.5708 0 0</pose>
+<name>paddy369</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 -15 0 1.5708 0 0</pose>
+<name>paddy370</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 -15 0 1.5708 0 0</pose>
+<name>paddy371</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 -15 0 1.5708 0 0</pose>
+<name>paddy372</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 -15 0 1.5708 0 0</pose>
+<name>paddy373</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 -15 0 1.5708 0 0</pose>
+<name>paddy374</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 -15 0 1.5708 0 0</pose>
+<name>paddy375</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 -15 0 1.5708 0 0</pose>
+<name>paddy376</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 -15 0 1.5708 0 0</pose>
+<name>paddy377</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 -15 0 1.5708 0 0</pose>
+<name>paddy378</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 -15 0 1.5708 0 0</pose>
+<name>paddy379</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 -15 0 1.5708 0 0</pose>
+<name>paddy380</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 -15 0 1.5708 0 0</pose>
+<name>paddy381</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 -15 0 1.5708 0 0</pose>
+<name>paddy382</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 -15 0 1.5708 0 0</pose>
+<name>paddy383</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 -15 0 1.5708 0 0</pose>
+<name>paddy384</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 -15 0 1.5708 0 0</pose>
+<name>paddy385</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 -15 0 1.5708 0 0</pose>
+<name>paddy386</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 -15 0 1.5708 0 0</pose>
+<name>paddy387</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 -15 0 1.5708 0 0</pose>
+<name>paddy388</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 -15 0 1.5708 0 0</pose>
+<name>paddy389</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 -15 0 1.5708 0 0</pose>
+<name>paddy390</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 -15 0 1.5708 0 0</pose>
+<name>paddy391</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 -15 0 1.5708 0 0</pose>
+<name>paddy392</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 -15 0 1.5708 0 0</pose>
+<name>paddy393</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 -15 0 1.5708 0 0</pose>
+<name>paddy394</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 -15 0 1.5708 0 0</pose>
+<name>paddy395</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 -15 0 1.5708 0 0</pose>
+<name>paddy396</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 -15 0 1.5708 0 0</pose>
+<name>paddy397</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 -15 0 1.5708 0 0</pose>
+<name>paddy398</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 -15 0 1.5708 0 0</pose>
+<name>paddy399</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 -15 0 1.5708 0 0</pose>
+<name>paddy400</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 -15 0 1.5708 0 0</pose>
+<name>paddy401</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 -15 0 1.5708 0 0</pose>
+<name>paddy402</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 -15 0 1.5708 0 0</pose>
+<name>paddy403</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 -15 0 1.5708 0 0</pose>
+<name>paddy404</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 -15 0 1.5708 0 0</pose>
+<name>paddy405</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 -15 0 1.5708 0 0</pose>
+<name>paddy406</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 -15 0 1.5708 0 0</pose>
+<name>paddy407</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 -15 0 1.5708 0 0</pose>
+<name>paddy408</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 -15 0 1.5708 0 0</pose>
+<name>paddy409</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 -15 0 1.5708 0 0</pose>
+<name>paddy410</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 -17 0 1.5708 0 0</pose>
+<name>paddy411</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 -17 0 1.5708 0 0</pose>
+<name>paddy412</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 -17 0 1.5708 0 0</pose>
+<name>paddy413</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 -17 0 1.5708 0 0</pose>
+<name>paddy414</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 -17 0 1.5708 0 0</pose>
+<name>paddy415</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 -17 0 1.5708 0 0</pose>
+<name>paddy416</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 -17 0 1.5708 0 0</pose>
+<name>paddy417</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 -17 0 1.5708 0 0</pose>
+<name>paddy418</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 -17 0 1.5708 0 0</pose>
+<name>paddy419</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 -17 0 1.5708 0 0</pose>
+<name>paddy420</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 -17 0 1.5708 0 0</pose>
+<name>paddy421</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 -17 0 1.5708 0 0</pose>
+<name>paddy422</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 -17 0 1.5708 0 0</pose>
+<name>paddy423</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 -17 0 1.5708 0 0</pose>
+<name>paddy424</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 -17 0 1.5708 0 0</pose>
+<name>paddy425</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 -17 0 1.5708 0 0</pose>
+<name>paddy426</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 -17 0 1.5708 0 0</pose>
+<name>paddy427</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 -17 0 1.5708 0 0</pose>
+<name>paddy428</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 -17 0 1.5708 0 0</pose>
+<name>paddy429</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 -17 0 1.5708 0 0</pose>
+<name>paddy430</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 -17 0 1.5708 0 0</pose>
+<name>paddy431</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 -17 0 1.5708 0 0</pose>
+<name>paddy432</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 -17 0 1.5708 0 0</pose>
+<name>paddy433</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 -17 0 1.5708 0 0</pose>
+<name>paddy434</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 -17 0 1.5708 0 0</pose>
+<name>paddy435</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 -17 0 1.5708 0 0</pose>
+<name>paddy436</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 -17 0 1.5708 0 0</pose>
+<name>paddy437</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 -17 0 1.5708 0 0</pose>
+<name>paddy438</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 -17 0 1.5708 0 0</pose>
+<name>paddy439</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 -17 0 1.5708 0 0</pose>
+<name>paddy440</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 -17 0 1.5708 0 0</pose>
+<name>paddy441</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 -17 0 1.5708 0 0</pose>
+<name>paddy442</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 -17 0 1.5708 0 0</pose>
+<name>paddy443</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 -17 0 1.5708 0 0</pose>
+<name>paddy444</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 -17 0 1.5708 0 0</pose>
+<name>paddy445</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 -17 0 1.5708 0 0</pose>
+<name>paddy446</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 -17 0 1.5708 0 0</pose>
+<name>paddy447</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 -17 0 1.5708 0 0</pose>
+<name>paddy448</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 -17 0 1.5708 0 0</pose>
+<name>paddy449</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 -17 0 1.5708 0 0</pose>
+<name>paddy450</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 -17 0 1.5708 0 0</pose>
+<name>paddy451</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 -19 0 1.5708 0 0</pose>
+<name>paddy452</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 -19 0 1.5708 0 0</pose>
+<name>paddy453</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 -19 0 1.5708 0 0</pose>
+<name>paddy454</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 -19 0 1.5708 0 0</pose>
+<name>paddy455</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 -19 0 1.5708 0 0</pose>
+<name>paddy456</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 -19 0 1.5708 0 0</pose>
+<name>paddy457</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 -19 0 1.5708 0 0</pose>
+<name>paddy458</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 -19 0 1.5708 0 0</pose>
+<name>paddy459</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 -19 0 1.5708 0 0</pose>
+<name>paddy460</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 -19 0 1.5708 0 0</pose>
+<name>paddy461</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 -19 0 1.5708 0 0</pose>
+<name>paddy462</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 -19 0 1.5708 0 0</pose>
+<name>paddy463</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 -19 0 1.5708 0 0</pose>
+<name>paddy464</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 -19 0 1.5708 0 0</pose>
+<name>paddy465</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 -19 0 1.5708 0 0</pose>
+<name>paddy466</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 -19 0 1.5708 0 0</pose>
+<name>paddy467</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 -19 0 1.5708 0 0</pose>
+<name>paddy468</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 -19 0 1.5708 0 0</pose>
+<name>paddy469</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 -19 0 1.5708 0 0</pose>
+<name>paddy470</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 -19 0 1.5708 0 0</pose>
+<name>paddy471</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 -19 0 1.5708 0 0</pose>
+<name>paddy472</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 -19 0 1.5708 0 0</pose>
+<name>paddy473</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 -19 0 1.5708 0 0</pose>
+<name>paddy474</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 -19 0 1.5708 0 0</pose>
+<name>paddy475</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 -19 0 1.5708 0 0</pose>
+<name>paddy476</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 -19 0 1.5708 0 0</pose>
+<name>paddy477</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 -19 0 1.5708 0 0</pose>
+<name>paddy478</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 -19 0 1.5708 0 0</pose>
+<name>paddy479</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 -19 0 1.5708 0 0</pose>
+<name>paddy480</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 -19 0 1.5708 0 0</pose>
+<name>paddy481</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 -19 0 1.5708 0 0</pose>
+<name>paddy482</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 -19 0 1.5708 0 0</pose>
+<name>paddy483</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 -19 0 1.5708 0 0</pose>
+<name>paddy484</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 -19 0 1.5708 0 0</pose>
+<name>paddy485</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 -19 0 1.5708 0 0</pose>
+<name>paddy486</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 -19 0 1.5708 0 0</pose>
+<name>paddy487</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 -19 0 1.5708 0 0</pose>
+<name>paddy488</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 -19 0 1.5708 0 0</pose>
+<name>paddy489</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 -19 0 1.5708 0 0</pose>
+<name>paddy490</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 -19 0 1.5708 0 0</pose>
+<name>paddy491</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 -19 0 1.5708 0 0</pose>
+<name>paddy492</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 -21 0 1.5708 0 0</pose>
+<name>paddy493</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 -21 0 1.5708 0 0</pose>
+<name>paddy494</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 -21 0 1.5708 0 0</pose>
+<name>paddy495</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 -21 0 1.5708 0 0</pose>
+<name>paddy496</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 -21 0 1.5708 0 0</pose>
+<name>paddy497</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 -21 0 1.5708 0 0</pose>
+<name>paddy498</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 -21 0 1.5708 0 0</pose>
+<name>paddy499</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 -21 0 1.5708 0 0</pose>
+<name>paddy500</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 -21 0 1.5708 0 0</pose>
+<name>paddy501</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 -21 0 1.5708 0 0</pose>
+<name>paddy502</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 -21 0 1.5708 0 0</pose>
+<name>paddy503</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 -21 0 1.5708 0 0</pose>
+<name>paddy504</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 -21 0 1.5708 0 0</pose>
+<name>paddy505</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 -21 0 1.5708 0 0</pose>
+<name>paddy506</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 -21 0 1.5708 0 0</pose>
+<name>paddy507</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 -21 0 1.5708 0 0</pose>
+<name>paddy508</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 -21 0 1.5708 0 0</pose>
+<name>paddy509</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 -21 0 1.5708 0 0</pose>
+<name>paddy510</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 -21 0 1.5708 0 0</pose>
+<name>paddy511</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 -21 0 1.5708 0 0</pose>
+<name>paddy512</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 -21 0 1.5708 0 0</pose>
+<name>paddy513</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 -21 0 1.5708 0 0</pose>
+<name>paddy514</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 -21 0 1.5708 0 0</pose>
+<name>paddy515</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 -21 0 1.5708 0 0</pose>
+<name>paddy516</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 -21 0 1.5708 0 0</pose>
+<name>paddy517</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 -21 0 1.5708 0 0</pose>
+<name>paddy518</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 -21 0 1.5708 0 0</pose>
+<name>paddy519</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 -21 0 1.5708 0 0</pose>
+<name>paddy520</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 -21 0 1.5708 0 0</pose>
+<name>paddy521</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 -21 0 1.5708 0 0</pose>
+<name>paddy522</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 -21 0 1.5708 0 0</pose>
+<name>paddy523</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 -21 0 1.5708 0 0</pose>
+<name>paddy524</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 -21 0 1.5708 0 0</pose>
+<name>paddy525</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 -21 0 1.5708 0 0</pose>
+<name>paddy526</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 -21 0 1.5708 0 0</pose>
+<name>paddy527</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 -21 0 1.5708 0 0</pose>
+<name>paddy528</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 -21 0 1.5708 0 0</pose>
+<name>paddy529</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 -21 0 1.5708 0 0</pose>
+<name>paddy530</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 -21 0 1.5708 0 0</pose>
+<name>paddy531</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 -21 0 1.5708 0 0</pose>
+<name>paddy532</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 -21 0 1.5708 0 0</pose>
+<name>paddy533</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 -23 0 1.5708 0 0</pose>
+<name>paddy534</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 -23 0 1.5708 0 0</pose>
+<name>paddy535</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 -23 0 1.5708 0 0</pose>
+<name>paddy536</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 -23 0 1.5708 0 0</pose>
+<name>paddy537</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 -23 0 1.5708 0 0</pose>
+<name>paddy538</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 -23 0 1.5708 0 0</pose>
+<name>paddy539</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 -23 0 1.5708 0 0</pose>
+<name>paddy540</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 -23 0 1.5708 0 0</pose>
+<name>paddy541</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 -23 0 1.5708 0 0</pose>
+<name>paddy542</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 -23 0 1.5708 0 0</pose>
+<name>paddy543</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 -23 0 1.5708 0 0</pose>
+<name>paddy544</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 -23 0 1.5708 0 0</pose>
+<name>paddy545</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 -23 0 1.5708 0 0</pose>
+<name>paddy546</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 -23 0 1.5708 0 0</pose>
+<name>paddy547</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 -23 0 1.5708 0 0</pose>
+<name>paddy548</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 -23 0 1.5708 0 0</pose>
+<name>paddy549</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 -23 0 1.5708 0 0</pose>
+<name>paddy550</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 -23 0 1.5708 0 0</pose>
+<name>paddy551</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 -23 0 1.5708 0 0</pose>
+<name>paddy552</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 -23 0 1.5708 0 0</pose>
+<name>paddy553</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 -23 0 1.5708 0 0</pose>
+<name>paddy554</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 -23 0 1.5708 0 0</pose>
+<name>paddy555</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 -23 0 1.5708 0 0</pose>
+<name>paddy556</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 -23 0 1.5708 0 0</pose>
+<name>paddy557</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 -23 0 1.5708 0 0</pose>
+<name>paddy558</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 -23 0 1.5708 0 0</pose>
+<name>paddy559</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 -23 0 1.5708 0 0</pose>
+<name>paddy560</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 -23 0 1.5708 0 0</pose>
+<name>paddy561</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 -23 0 1.5708 0 0</pose>
+<name>paddy562</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 -23 0 1.5708 0 0</pose>
+<name>paddy563</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 -23 0 1.5708 0 0</pose>
+<name>paddy564</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 -23 0 1.5708 0 0</pose>
+<name>paddy565</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 -23 0 1.5708 0 0</pose>
+<name>paddy566</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 -23 0 1.5708 0 0</pose>
+<name>paddy567</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 -23 0 1.5708 0 0</pose>
+<name>paddy568</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 -23 0 1.5708 0 0</pose>
+<name>paddy569</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 -23 0 1.5708 0 0</pose>
+<name>paddy570</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 -23 0 1.5708 0 0</pose>
+<name>paddy571</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 -23 0 1.5708 0 0</pose>
+<name>paddy572</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 -23 0 1.5708 0 0</pose>
+<name>paddy573</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 -23 0 1.5708 0 0</pose>
+<name>paddy574</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 -25 0 1.5708 0 0</pose>
+<name>paddy575</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 -25 0 1.5708 0 0</pose>
+<name>paddy576</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 -25 0 1.5708 0 0</pose>
+<name>paddy577</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 -25 0 1.5708 0 0</pose>
+<name>paddy578</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 -25 0 1.5708 0 0</pose>
+<name>paddy579</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 -25 0 1.5708 0 0</pose>
+<name>paddy580</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 -25 0 1.5708 0 0</pose>
+<name>paddy581</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 -25 0 1.5708 0 0</pose>
+<name>paddy582</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 -25 0 1.5708 0 0</pose>
+<name>paddy583</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 -25 0 1.5708 0 0</pose>
+<name>paddy584</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 -25 0 1.5708 0 0</pose>
+<name>paddy585</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 -25 0 1.5708 0 0</pose>
+<name>paddy586</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 -25 0 1.5708 0 0</pose>
+<name>paddy587</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 -25 0 1.5708 0 0</pose>
+<name>paddy588</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 -25 0 1.5708 0 0</pose>
+<name>paddy589</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 -25 0 1.5708 0 0</pose>
+<name>paddy590</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 -25 0 1.5708 0 0</pose>
+<name>paddy591</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 -25 0 1.5708 0 0</pose>
+<name>paddy592</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 -25 0 1.5708 0 0</pose>
+<name>paddy593</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 -25 0 1.5708 0 0</pose>
+<name>paddy594</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 -25 0 1.5708 0 0</pose>
+<name>paddy595</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 -25 0 1.5708 0 0</pose>
+<name>paddy596</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 -25 0 1.5708 0 0</pose>
+<name>paddy597</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 -25 0 1.5708 0 0</pose>
+<name>paddy598</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 -25 0 1.5708 0 0</pose>
+<name>paddy599</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 -25 0 1.5708 0 0</pose>
+<name>paddy600</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 -25 0 1.5708 0 0</pose>
+<name>paddy601</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 -25 0 1.5708 0 0</pose>
+<name>paddy602</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 -25 0 1.5708 0 0</pose>
+<name>paddy603</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 -25 0 1.5708 0 0</pose>
+<name>paddy604</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 -25 0 1.5708 0 0</pose>
+<name>paddy605</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 -25 0 1.5708 0 0</pose>
+<name>paddy606</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 -25 0 1.5708 0 0</pose>
+<name>paddy607</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 -25 0 1.5708 0 0</pose>
+<name>paddy608</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 -25 0 1.5708 0 0</pose>
+<name>paddy609</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 -25 0 1.5708 0 0</pose>
+<name>paddy610</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 -25 0 1.5708 0 0</pose>
+<name>paddy611</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 -25 0 1.5708 0 0</pose>
+<name>paddy612</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 -25 0 1.5708 0 0</pose>
+<name>paddy613</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 -25 0 1.5708 0 0</pose>
+<name>paddy614</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 -25 0 1.5708 0 0</pose>
+<name>paddy615</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 -27 0 1.5708 0 0</pose>
+<name>paddy616</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 -27 0 1.5708 0 0</pose>
+<name>paddy617</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 -27 0 1.5708 0 0</pose>
+<name>paddy618</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 -27 0 1.5708 0 0</pose>
+<name>paddy619</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 -27 0 1.5708 0 0</pose>
+<name>paddy620</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 -27 0 1.5708 0 0</pose>
+<name>paddy621</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 -27 0 1.5708 0 0</pose>
+<name>paddy622</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 -27 0 1.5708 0 0</pose>
+<name>paddy623</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 -27 0 1.5708 0 0</pose>
+<name>paddy624</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 -27 0 1.5708 0 0</pose>
+<name>paddy625</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 -27 0 1.5708 0 0</pose>
+<name>paddy626</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 -27 0 1.5708 0 0</pose>
+<name>paddy627</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 -27 0 1.5708 0 0</pose>
+<name>paddy628</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 -27 0 1.5708 0 0</pose>
+<name>paddy629</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 -27 0 1.5708 0 0</pose>
+<name>paddy630</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 -27 0 1.5708 0 0</pose>
+<name>paddy631</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 -27 0 1.5708 0 0</pose>
+<name>paddy632</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 -27 0 1.5708 0 0</pose>
+<name>paddy633</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 -27 0 1.5708 0 0</pose>
+<name>paddy634</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 -27 0 1.5708 0 0</pose>
+<name>paddy635</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 -27 0 1.5708 0 0</pose>
+<name>paddy636</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 -27 0 1.5708 0 0</pose>
+<name>paddy637</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 -27 0 1.5708 0 0</pose>
+<name>paddy638</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 -27 0 1.5708 0 0</pose>
+<name>paddy639</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 -27 0 1.5708 0 0</pose>
+<name>paddy640</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 -27 0 1.5708 0 0</pose>
+<name>paddy641</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 -27 0 1.5708 0 0</pose>
+<name>paddy642</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 -27 0 1.5708 0 0</pose>
+<name>paddy643</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 -27 0 1.5708 0 0</pose>
+<name>paddy644</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 -27 0 1.5708 0 0</pose>
+<name>paddy645</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 -27 0 1.5708 0 0</pose>
+<name>paddy646</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 -27 0 1.5708 0 0</pose>
+<name>paddy647</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 -27 0 1.5708 0 0</pose>
+<name>paddy648</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 -27 0 1.5708 0 0</pose>
+<name>paddy649</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 -27 0 1.5708 0 0</pose>
+<name>paddy650</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 -27 0 1.5708 0 0</pose>
+<name>paddy651</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 -27 0 1.5708 0 0</pose>
+<name>paddy652</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 -27 0 1.5708 0 0</pose>
+<name>paddy653</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 -27 0 1.5708 0 0</pose>
+<name>paddy654</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 -27 0 1.5708 0 0</pose>
+<name>paddy655</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 -27 0 1.5708 0 0</pose>
+<name>paddy656</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 -29 0 1.5708 0 0</pose>
+<name>paddy657</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 -29 0 1.5708 0 0</pose>
+<name>paddy658</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 -29 0 1.5708 0 0</pose>
+<name>paddy659</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 -29 0 1.5708 0 0</pose>
+<name>paddy660</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 -29 0 1.5708 0 0</pose>
+<name>paddy661</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 -29 0 1.5708 0 0</pose>
+<name>paddy662</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 -29 0 1.5708 0 0</pose>
+<name>paddy663</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 -29 0 1.5708 0 0</pose>
+<name>paddy664</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 -29 0 1.5708 0 0</pose>
+<name>paddy665</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 -29 0 1.5708 0 0</pose>
+<name>paddy666</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 -29 0 1.5708 0 0</pose>
+<name>paddy667</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 -29 0 1.5708 0 0</pose>
+<name>paddy668</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 -29 0 1.5708 0 0</pose>
+<name>paddy669</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 -29 0 1.5708 0 0</pose>
+<name>paddy670</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 -29 0 1.5708 0 0</pose>
+<name>paddy671</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 -29 0 1.5708 0 0</pose>
+<name>paddy672</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 -29 0 1.5708 0 0</pose>
+<name>paddy673</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 -29 0 1.5708 0 0</pose>
+<name>paddy674</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 -29 0 1.5708 0 0</pose>
+<name>paddy675</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 -29 0 1.5708 0 0</pose>
+<name>paddy676</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 -29 0 1.5708 0 0</pose>
+<name>paddy677</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 -29 0 1.5708 0 0</pose>
+<name>paddy678</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 -29 0 1.5708 0 0</pose>
+<name>paddy679</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 -29 0 1.5708 0 0</pose>
+<name>paddy680</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 -29 0 1.5708 0 0</pose>
+<name>paddy681</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 -29 0 1.5708 0 0</pose>
+<name>paddy682</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 -29 0 1.5708 0 0</pose>
+<name>paddy683</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 -29 0 1.5708 0 0</pose>
+<name>paddy684</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 -29 0 1.5708 0 0</pose>
+<name>paddy685</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 -29 0 1.5708 0 0</pose>
+<name>paddy686</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 -29 0 1.5708 0 0</pose>
+<name>paddy687</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 -29 0 1.5708 0 0</pose>
+<name>paddy688</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 -29 0 1.5708 0 0</pose>
+<name>paddy689</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 -29 0 1.5708 0 0</pose>
+<name>paddy690</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 -29 0 1.5708 0 0</pose>
+<name>paddy691</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 -29 0 1.5708 0 0</pose>
+<name>paddy692</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 -29 0 1.5708 0 0</pose>
+<name>paddy693</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 -29 0 1.5708 0 0</pose>
+<name>paddy694</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 -29 0 1.5708 0 0</pose>
+<name>paddy695</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 -29 0 1.5708 0 0</pose>
+<name>paddy696</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 -29 0 1.5708 0 0</pose>
+<name>paddy697</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 -31 0 1.5708 0 0</pose>
+<name>paddy698</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 -31 0 1.5708 0 0</pose>
+<name>paddy699</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 -31 0 1.5708 0 0</pose>
+<name>paddy700</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 -31 0 1.5708 0 0</pose>
+<name>paddy701</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 -31 0 1.5708 0 0</pose>
+<name>paddy702</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 -31 0 1.5708 0 0</pose>
+<name>paddy703</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 -31 0 1.5708 0 0</pose>
+<name>paddy704</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 -31 0 1.5708 0 0</pose>
+<name>paddy705</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 -31 0 1.5708 0 0</pose>
+<name>paddy706</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 -31 0 1.5708 0 0</pose>
+<name>paddy707</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 -31 0 1.5708 0 0</pose>
+<name>paddy708</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 -31 0 1.5708 0 0</pose>
+<name>paddy709</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 -31 0 1.5708 0 0</pose>
+<name>paddy710</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 -31 0 1.5708 0 0</pose>
+<name>paddy711</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 -31 0 1.5708 0 0</pose>
+<name>paddy712</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 -31 0 1.5708 0 0</pose>
+<name>paddy713</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 -31 0 1.5708 0 0</pose>
+<name>paddy714</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 -31 0 1.5708 0 0</pose>
+<name>paddy715</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 -31 0 1.5708 0 0</pose>
+<name>paddy716</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 -31 0 1.5708 0 0</pose>
+<name>paddy717</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 -31 0 1.5708 0 0</pose>
+<name>paddy718</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 -31 0 1.5708 0 0</pose>
+<name>paddy719</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 -31 0 1.5708 0 0</pose>
+<name>paddy720</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 -31 0 1.5708 0 0</pose>
+<name>paddy721</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 -31 0 1.5708 0 0</pose>
+<name>paddy722</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 -31 0 1.5708 0 0</pose>
+<name>paddy723</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 -31 0 1.5708 0 0</pose>
+<name>paddy724</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 -31 0 1.5708 0 0</pose>
+<name>paddy725</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 -31 0 1.5708 0 0</pose>
+<name>paddy726</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 -31 0 1.5708 0 0</pose>
+<name>paddy727</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 -31 0 1.5708 0 0</pose>
+<name>paddy728</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 -31 0 1.5708 0 0</pose>
+<name>paddy729</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 -31 0 1.5708 0 0</pose>
+<name>paddy730</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 -31 0 1.5708 0 0</pose>
+<name>paddy731</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 -31 0 1.5708 0 0</pose>
+<name>paddy732</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 -31 0 1.5708 0 0</pose>
+<name>paddy733</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 -31 0 1.5708 0 0</pose>
+<name>paddy734</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 -31 0 1.5708 0 0</pose>
+<name>paddy735</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 -31 0 1.5708 0 0</pose>
+<name>paddy736</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 -31 0 1.5708 0 0</pose>
+<name>paddy737</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 -31 0 1.5708 0 0</pose>
+<name>paddy738</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 -33 0 1.5708 0 0</pose>
+<name>paddy739</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 -33 0 1.5708 0 0</pose>
+<name>paddy740</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 -33 0 1.5708 0 0</pose>
+<name>paddy741</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 -33 0 1.5708 0 0</pose>
+<name>paddy742</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 -33 0 1.5708 0 0</pose>
+<name>paddy743</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 -33 0 1.5708 0 0</pose>
+<name>paddy744</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 -33 0 1.5708 0 0</pose>
+<name>paddy745</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 -33 0 1.5708 0 0</pose>
+<name>paddy746</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 -33 0 1.5708 0 0</pose>
+<name>paddy747</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 -33 0 1.5708 0 0</pose>
+<name>paddy748</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 -33 0 1.5708 0 0</pose>
+<name>paddy749</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 -33 0 1.5708 0 0</pose>
+<name>paddy750</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 -33 0 1.5708 0 0</pose>
+<name>paddy751</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 -33 0 1.5708 0 0</pose>
+<name>paddy752</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 -33 0 1.5708 0 0</pose>
+<name>paddy753</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 -33 0 1.5708 0 0</pose>
+<name>paddy754</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 -33 0 1.5708 0 0</pose>
+<name>paddy755</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 -33 0 1.5708 0 0</pose>
+<name>paddy756</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 -33 0 1.5708 0 0</pose>
+<name>paddy757</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 -33 0 1.5708 0 0</pose>
+<name>paddy758</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 -33 0 1.5708 0 0</pose>
+<name>paddy759</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 -33 0 1.5708 0 0</pose>
+<name>paddy760</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 -33 0 1.5708 0 0</pose>
+<name>paddy761</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 -33 0 1.5708 0 0</pose>
+<name>paddy762</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 -33 0 1.5708 0 0</pose>
+<name>paddy763</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 -33 0 1.5708 0 0</pose>
+<name>paddy764</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 -33 0 1.5708 0 0</pose>
+<name>paddy765</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 -33 0 1.5708 0 0</pose>
+<name>paddy766</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 -33 0 1.5708 0 0</pose>
+<name>paddy767</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 -33 0 1.5708 0 0</pose>
+<name>paddy768</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 -33 0 1.5708 0 0</pose>
+<name>paddy769</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 -33 0 1.5708 0 0</pose>
+<name>paddy770</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 -33 0 1.5708 0 0</pose>
+<name>paddy771</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 -33 0 1.5708 0 0</pose>
+<name>paddy772</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 -33 0 1.5708 0 0</pose>
+<name>paddy773</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 -33 0 1.5708 0 0</pose>
+<name>paddy774</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 -33 0 1.5708 0 0</pose>
+<name>paddy775</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 -33 0 1.5708 0 0</pose>
+<name>paddy776</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 -33 0 1.5708 0 0</pose>
+<name>paddy777</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 -33 0 1.5708 0 0</pose>
+<name>paddy778</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 -33 0 1.5708 0 0</pose>
+<name>paddy779</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 -35 0 1.5708 0 0</pose>
+<name>paddy780</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 -35 0 1.5708 0 0</pose>
+<name>paddy781</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 -35 0 1.5708 0 0</pose>
+<name>paddy782</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 -35 0 1.5708 0 0</pose>
+<name>paddy783</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 -35 0 1.5708 0 0</pose>
+<name>paddy784</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 -35 0 1.5708 0 0</pose>
+<name>paddy785</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 -35 0 1.5708 0 0</pose>
+<name>paddy786</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 -35 0 1.5708 0 0</pose>
+<name>paddy787</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 -35 0 1.5708 0 0</pose>
+<name>paddy788</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 -35 0 1.5708 0 0</pose>
+<name>paddy789</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 -35 0 1.5708 0 0</pose>
+<name>paddy790</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 -35 0 1.5708 0 0</pose>
+<name>paddy791</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 -35 0 1.5708 0 0</pose>
+<name>paddy792</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 -35 0 1.5708 0 0</pose>
+<name>paddy793</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 -35 0 1.5708 0 0</pose>
+<name>paddy794</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 -35 0 1.5708 0 0</pose>
+<name>paddy795</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 -35 0 1.5708 0 0</pose>
+<name>paddy796</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 -35 0 1.5708 0 0</pose>
+<name>paddy797</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 -35 0 1.5708 0 0</pose>
+<name>paddy798</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 -35 0 1.5708 0 0</pose>
+<name>paddy799</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 -35 0 1.5708 0 0</pose>
+<name>paddy800</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 -35 0 1.5708 0 0</pose>
+<name>paddy801</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 -35 0 1.5708 0 0</pose>
+<name>paddy802</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 -35 0 1.5708 0 0</pose>
+<name>paddy803</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 -35 0 1.5708 0 0</pose>
+<name>paddy804</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 -35 0 1.5708 0 0</pose>
+<name>paddy805</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 -35 0 1.5708 0 0</pose>
+<name>paddy806</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 -35 0 1.5708 0 0</pose>
+<name>paddy807</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 -35 0 1.5708 0 0</pose>
+<name>paddy808</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 -35 0 1.5708 0 0</pose>
+<name>paddy809</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 -35 0 1.5708 0 0</pose>
+<name>paddy810</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 -35 0 1.5708 0 0</pose>
+<name>paddy811</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 -35 0 1.5708 0 0</pose>
+<name>paddy812</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 -35 0 1.5708 0 0</pose>
+<name>paddy813</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 -35 0 1.5708 0 0</pose>
+<name>paddy814</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 -35 0 1.5708 0 0</pose>
+<name>paddy815</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 -35 0 1.5708 0 0</pose>
+<name>paddy816</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 -35 0 1.5708 0 0</pose>
+<name>paddy817</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 -35 0 1.5708 0 0</pose>
+<name>paddy818</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 -35 0 1.5708 0 0</pose>
+<name>paddy819</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 -35 0 1.5708 0 0</pose>
+<name>paddy820</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 -37 0 1.5708 0 0</pose>
+<name>paddy821</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 -37 0 1.5708 0 0</pose>
+<name>paddy822</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 -37 0 1.5708 0 0</pose>
+<name>paddy823</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 -37 0 1.5708 0 0</pose>
+<name>paddy824</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 -37 0 1.5708 0 0</pose>
+<name>paddy825</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 -37 0 1.5708 0 0</pose>
+<name>paddy826</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 -37 0 1.5708 0 0</pose>
+<name>paddy827</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 -37 0 1.5708 0 0</pose>
+<name>paddy828</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 -37 0 1.5708 0 0</pose>
+<name>paddy829</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 -37 0 1.5708 0 0</pose>
+<name>paddy830</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 -37 0 1.5708 0 0</pose>
+<name>paddy831</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 -37 0 1.5708 0 0</pose>
+<name>paddy832</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 -37 0 1.5708 0 0</pose>
+<name>paddy833</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 -37 0 1.5708 0 0</pose>
+<name>paddy834</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 -37 0 1.5708 0 0</pose>
+<name>paddy835</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 -37 0 1.5708 0 0</pose>
+<name>paddy836</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 -37 0 1.5708 0 0</pose>
+<name>paddy837</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 -37 0 1.5708 0 0</pose>
+<name>paddy838</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 -37 0 1.5708 0 0</pose>
+<name>paddy839</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 -37 0 1.5708 0 0</pose>
+<name>paddy840</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 -37 0 1.5708 0 0</pose>
+<name>paddy841</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 -37 0 1.5708 0 0</pose>
+<name>paddy842</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 -37 0 1.5708 0 0</pose>
+<name>paddy843</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 -37 0 1.5708 0 0</pose>
+<name>paddy844</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 -37 0 1.5708 0 0</pose>
+<name>paddy845</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 -37 0 1.5708 0 0</pose>
+<name>paddy846</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 -37 0 1.5708 0 0</pose>
+<name>paddy847</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 -37 0 1.5708 0 0</pose>
+<name>paddy848</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 -37 0 1.5708 0 0</pose>
+<name>paddy849</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 -37 0 1.5708 0 0</pose>
+<name>paddy850</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 -37 0 1.5708 0 0</pose>
+<name>paddy851</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 -37 0 1.5708 0 0</pose>
+<name>paddy852</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 -37 0 1.5708 0 0</pose>
+<name>paddy853</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 -37 0 1.5708 0 0</pose>
+<name>paddy854</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 -37 0 1.5708 0 0</pose>
+<name>paddy855</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 -37 0 1.5708 0 0</pose>
+<name>paddy856</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 -37 0 1.5708 0 0</pose>
+<name>paddy857</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 -37 0 1.5708 0 0</pose>
+<name>paddy858</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 -37 0 1.5708 0 0</pose>
+<name>paddy859</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 -37 0 1.5708 0 0</pose>
+<name>paddy860</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 -37 0 1.5708 0 0</pose>
+<name>paddy861</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-20 -39 0 1.5708 0 0</pose>
+<name>paddy862</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-19 -39 0 1.5708 0 0</pose>
+<name>paddy863</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-18 -39 0 1.5708 0 0</pose>
+<name>paddy864</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-17 -39 0 1.5708 0 0</pose>
+<name>paddy865</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-16 -39 0 1.5708 0 0</pose>
+<name>paddy866</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-15 -39 0 1.5708 0 0</pose>
+<name>paddy867</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-14 -39 0 1.5708 0 0</pose>
+<name>paddy868</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-13 -39 0 1.5708 0 0</pose>
+<name>paddy869</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-12 -39 0 1.5708 0 0</pose>
+<name>paddy870</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-11 -39 0 1.5708 0 0</pose>
+<name>paddy871</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-10 -39 0 1.5708 0 0</pose>
+<name>paddy872</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-9 -39 0 1.5708 0 0</pose>
+<name>paddy873</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-8 -39 0 1.5708 0 0</pose>
+<name>paddy874</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-7 -39 0 1.5708 0 0</pose>
+<name>paddy875</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-6 -39 0 1.5708 0 0</pose>
+<name>paddy876</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-5 -39 0 1.5708 0 0</pose>
+<name>paddy877</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-4 -39 0 1.5708 0 0</pose>
+<name>paddy878</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-3 -39 0 1.5708 0 0</pose>
+<name>paddy879</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-2 -39 0 1.5708 0 0</pose>
+<name>paddy880</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>-1 -39 0 1.5708 0 0</pose>
+<name>paddy881</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>0 -39 0 1.5708 0 0</pose>
+<name>paddy882</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>1 -39 0 1.5708 0 0</pose>
+<name>paddy883</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>2 -39 0 1.5708 0 0</pose>
+<name>paddy884</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>3 -39 0 1.5708 0 0</pose>
+<name>paddy885</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>4 -39 0 1.5708 0 0</pose>
+<name>paddy886</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>5 -39 0 1.5708 0 0</pose>
+<name>paddy887</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>6 -39 0 1.5708 0 0</pose>
+<name>paddy888</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>7 -39 0 1.5708 0 0</pose>
+<name>paddy889</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>8 -39 0 1.5708 0 0</pose>
+<name>paddy890</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>9 -39 0 1.5708 0 0</pose>
+<name>paddy891</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>10 -39 0 1.5708 0 0</pose>
+<name>paddy892</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>11 -39 0 1.5708 0 0</pose>
+<name>paddy893</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>12 -39 0 1.5708 0 0</pose>
+<name>paddy894</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>13 -39 0 1.5708 0 0</pose>
+<name>paddy895</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>14 -39 0 1.5708 0 0</pose>
+<name>paddy896</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>15 -39 0 1.5708 0 0</pose>
+<name>paddy897</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>16 -39 0 1.5708 0 0</pose>
+<name>paddy898</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>17 -39 0 1.5708 0 0</pose>
+<name>paddy899</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>18 -39 0 1.5708 0 0</pose>
+<name>paddy900</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>19 -39 0 1.5708 0 0</pose>
+<name>paddy901</name></include>
+
+<include>
+<uri>model://paddy</uri>
+<pose>20 -39 0 1.5708 0 0</pose>
+<name>paddy902</name></include>
+
+  </world>
+</sdf>
