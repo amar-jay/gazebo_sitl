@@ -122,24 +122,24 @@
 
     <include>
     <name>pad1</name>
-      <uri>model://delivery_landing_pad</uri>
+      <uri>model://box_with_image</uri>
       <pose degrees="true">10 10 0 0 0 0</pose>
     </include>
     <include>
     <name>pad2</name>
-      <uri>model://delivery_landing_pad</uri>
+      <uri>model://box_with_image</uri>
       <pose degrees="true">-10 10 0 0 0 0</pose>
     </include>
 
     <include>
     <name>pad3</name>
-      <uri>model://delivery_landing_pad</uri>
+      <uri>model://box_with_image</uri>
       <pose degrees="true">10 -10 0 0 0 0</pose>
     </include>
     
     <include>
     <name>pad4</name>
-      <uri>model://delivery_landing_pad</uri>
+      <uri>model://box_with_image</uri>
       <pose degrees="true">-10 -10 0 0 0 0</pose>
     </include>
     
@@ -150,7 +150,7 @@
     
     <include>
       <uri>model://iris_with_stationary_gimbal</uri>
-      <pose degrees="true">0 0 0.396 0 0 90</pose>
+      <pose degrees="true">0 0 0.396 0 0 0</pose>
     </include> 
     
 
