@@ -9,7 +9,7 @@
         <!-- <cast_shadows>false</cast_shadows> -->
         <geometry>
           <box>
-          <size>1 1 0.2</size>
+          <size>3 3 0.2</size>
           </box>
         </geometry>
         <material>
@@ -23,7 +23,7 @@
         <!-- <cast_shadows>false</cast_shadows> -->
         <geometry>
           <box>
-          <size>1 1 0.001</size>
+          <size>3 3 0.001</size>
           </box>
         </geometry>
         <material>
