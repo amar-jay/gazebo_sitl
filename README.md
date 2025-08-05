@@ -6,8 +6,6 @@ This is a fork of the official [ArduPilot Gazebo plugin](https://github.com/khan
 - Integrate better with recent ArduPilot changes for our usecase
 - Include new features tailored for advanced use cases.
 
----
-
 ## Features added
 
 - Support for additional sensors.
@@ -15,7 +13,6 @@ This is a fork of the official [ArduPilot Gazebo plugin](https://github.com/khan
 - Multi-drone support*
 - 3D gimbal and camera integration.
 
----
 
 ## 📦 Prerequisites
 
@@ -30,7 +27,6 @@ This is a fork of the official [ArduPilot Gazebo plugin](https://github.com/khan
 - [Gazebo Harmonic](https://gazebosim.org/docs/harmonic/install)
 - [ArduPilot SITL](https://ardupilot.org/dev/docs/setting-up-sitl-on-linux.html)
 - [OpenCV](https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html)
----
 
 ## 🔧 Installation
 
@@ -113,8 +109,6 @@ GUIDED> arm throttle
 GUIDED> takeoff 5
 ```
 
----
-
 ## 🧪 Additional Features
 
 ### 📷 Camera Streaming via GStreamer
@@ -181,7 +175,6 @@ cd ardupilot
 sim_vehicle.py -D -v ArduCopter -f JSON --add-param-file=$HOME/ardupilot_gazebo/config/gazebo-iris-gimbal.parm --console --map
 ```
 
----
 
 ## ⏩ Run Faster Than Real-Time (Optional)
 
@@ -194,7 +187,6 @@ To simulate at high speed, `iris_runway.sdf` includes:
 </physics>
 ```
 
----
 
 ## 🛠️ Troubleshooting
 
