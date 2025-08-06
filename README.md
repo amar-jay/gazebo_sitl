@@ -8,27 +8,25 @@ This is a fork of the official [ArduPilot Gazebo plugin](https://github.com/khan
 
 ## Features added
 
-- Support for additional sensors.
 - More worlds.
 - Multi-drone support*
 - 3D gimbal and camera integration.
 
 
-## 📦 Prerequisites
+## Prerequisites
 
 ### Supported Platforms
 
 - **Ubuntu 22.04** (recommended)
 - **macOS** (Intel/M1) with limitations (e.g., OpenGL required).
     
-
 ### Required Tools
 
 - [Gazebo Harmonic](https://gazebosim.org/docs/harmonic/install)
 - [ArduPilot SITL](https://ardupilot.org/dev/docs/setting-up-sitl-on-linux.html)
 - [OpenCV](https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html)
 
-## 🔧 Installation
+## Installation
 
 ### 1. Install Gazebo Harmonic (Ubuntu)
 
@@ -55,7 +53,7 @@ rosdep install --from-paths src --ignore-src -y
 
 ---
 
-## ⚙️ Build Instructions
+## Build Instructions
 
 ```bash
 # Make sure GZ_VERSION is set
@@ -68,7 +66,7 @@ make -j$(nproc)
 
 ---
 
-## 🌐 Environment Setup
+### Environment Setup
 
 Add the following lines to your `~/.bashrc` or `~/.zshrc`:
 
@@ -87,7 +85,7 @@ source ~/.bashrc   # or ~/.zshrc
 
 ---
 
-## 🚁 Quick Start: Simulate a Quad
+## Quick Start: Simulate a Quad
 
 ### 1. Run Gazebo Simulation
 
@@ -109,9 +107,9 @@ GUIDED> arm throttle
 GUIDED> takeoff 5
 ```
 
-## 🧪 Additional Features
+## Additional Features
 
-### 📷 Camera Streaming via GStreamer
+### Camera Streaming via GStreamer
 
 Enable the camera stream:
 
@@ -166,7 +164,7 @@ cv2.destroyAllWindows()
 
 ---
 
-### 🎮 Control 3D Gimbal via RC Channels
+### Control 3D Gimbal via RC Channels
 
 Run ArduPilot with Gimbal parameters:
 
@@ -176,7 +174,7 @@ sim_vehicle.py -D -v ArduCopter -f JSON --add-param-file=$HOME/ardupilot_gazebo/
 ```
 
 
-## ⏩ Run Faster Than Real-Time (Optional)
+## Run Faster Than Real-Time (Optional)
 
 To simulate at high speed, `iris_runway.sdf` includes:
 
